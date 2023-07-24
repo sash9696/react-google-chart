@@ -1,0 +1,4 @@
+
+.bar-chart-container path[stroke] {
+  stroke: none !important; /* Hide the bar borders */
+}
